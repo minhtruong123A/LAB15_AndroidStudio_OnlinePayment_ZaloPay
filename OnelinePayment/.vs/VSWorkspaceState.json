@@ -1,4 +1,8 @@
 {
-  "ExpandedNodes": [],
+  "ExpandedNodes": [
+    "",
+    "\\app"
+  ],
+  "SelectedNode": "\\app\\build.gradle.kts",
   "PreviewInSolutionExplorer": false
 }

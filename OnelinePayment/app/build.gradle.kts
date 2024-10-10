@@ -38,7 +38,7 @@ dependencies {
     implementation(libs.activity)
     implementation(libs.constraintlayout)
     implementation(fileTree(mapOf(
-        "dir" to "E:\\AndroidStudioZaloPay",
+        "dir" to "E:\\AndroidStudioHomework\\LAB15_AndroidStudio_OnlinePayment_ZaloPay\\AndroidStudioZaloPay",
         "include" to listOf("*.aar", "*.jar"),
         "exclude" to listOf("")
     )))
